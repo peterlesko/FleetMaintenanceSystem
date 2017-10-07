@@ -10,7 +10,7 @@ import java.awt.event.*;
 import java.io.*;
 
 /**
- * @author pet1
+ * @author Peter Lesko
  */
 public class Gui extends javax.swing.JFrame implements Serializable
 {

@@ -13,7 +13,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class MechanicPanel extends javax.swing.JPanel
 {

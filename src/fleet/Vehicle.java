@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class Vehicle implements java.io.Serializable
 {

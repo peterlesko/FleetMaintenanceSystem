@@ -12,7 +12,7 @@ import java.io.*;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class FleetCoord implements java.io.Serializable
 {

@@ -7,7 +7,7 @@ package gui;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class WorkerSelect extends javax.swing.JPanel
 {

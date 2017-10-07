@@ -15,7 +15,7 @@ import javax.swing.DefaultComboBoxModel;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class DriverPanel extends javax.swing.JPanel
 {

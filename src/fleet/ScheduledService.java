@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class ScheduledService implements java.io.Serializable
 {    

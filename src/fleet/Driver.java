@@ -7,7 +7,7 @@ package fleet;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class Driver
 {

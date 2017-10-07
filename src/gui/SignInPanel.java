@@ -8,7 +8,7 @@ import fleet.FleetCoord;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class SignInPanel extends javax.swing.JPanel  
 {

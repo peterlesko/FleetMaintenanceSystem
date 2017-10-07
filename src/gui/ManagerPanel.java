@@ -21,7 +21,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author pet1
+ * @author Peter Lesko
  */
 public class ManagerPanel extends javax.swing.JPanel
 {
